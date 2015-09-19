@@ -1,0 +1,58 @@
+html {
+	background-color: #f0f8ff;
+}
+
+#header{
+	text-align: center;
+	font-family: Muli;
+	font-size: small;
+    font-style: italic;
+	color: #1F2933;
+}
+
+#cities {
+    display: inline-block;
+    display: flex;
+    font-family: Muli;
+	font-weight: lighter;
+	color: #3c3c3c;
+  }
+
+img {
+	width: 400px;
+	height: 300px;
+	border-style: dotted;
+    border-color: #81CEC7;
+    padding: 10;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#willis {
+	margin: auto;
+	float: left;
+	border-right-width: 10px; 10px; 10px; 10px;
+	padding-right: 20px;
+    padding-left: 20px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    border-top-width: 5px;
+    border-bottom-width: 5px;
+    border-right-width: 5px;
+    border-left-width: 5px;
+    text-align: center;
+}
+
+#nicole {
+	margin: auto;
+	float: left;
+	padding-right: 20px;
+    padding-left: 20px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    border-top-width: 5px;
+    border-bottom-width: 5px;
+    border-right-width: 5px;
+    border-left-width: 5px;
+    text-align: center;
+}
